@@ -1,0 +1,18 @@
+Based on the case study provided, let's discuss the discussion questions:
+
+1. **Who should be responsible for the errors in a medical device?**
+   Responsibility for errors in a medical device should be distributed among various stakeholders involved in its development, manufacturing, and oversight. This includes the developers of the device, the manufacturer, regulatory agencies like the FDA, healthcare facilities using the device, and the clinicians operating the device.
+
+2. **What moral responsibility do creators of software have for the adverse consequences that flow from flaws in that software?**
+   Creators of software have a significant moral responsibility for the adverse consequences resulting from flaws in their software. They should ensure that their software is thoroughly tested, safe to use, and properly validated. If software flaws lead to harmful outcomes, software creators bear responsibility for the impact of those flaws.
+
+3. **What steps are creators of software morally required to take to minimize the risk of selling flawed software with dangerous consequences?**
+   Creators of software should follow ethical guidelines and best practices in software development. This includes thorough testing, peer reviews, compliance with regulations, transparency in reporting issues, and continuous monitoring for potential risks or vulnerabilities. Additionally, they should invest in ongoing training and education for their team to stay updated on industry best practices and emerging risks.
+
+4. **What should constitute FDA approval of a medical device?**
+   FDA approval of a medical device should involve rigorous testing to ensure the device is safe and effective for its intended use. The benefit of the device should outweigh potential harm, and considerations should be made for special populations such as children or patients with rare conditions. FDA approval guidelines should evolve with advancements in technology and should prioritize patient safety above all.
+
+5. **Should updated medical devices be reviewed by the FDA as a new device or as an improvement in an older design?**
+   Updated medical devices should be reviewed by the FDA based on the extent of changes made to the device. If the modifications significantly alter the device's safety or effectiveness, it should be subject to a full review process as a new device. However, if the changes are minor improvements to an existing design, a streamlined review process for improvements may be appropriate.
+
+In conclusion, the case of the Therac-25 highlights the importance of accountability, thorough testing, regulatory oversight, and ethical considerations in the development and approval of medical devices, especially those involving software components that can have significant implications for patient safety.

@@ -1,0 +1,21 @@
+Discussion Questions:
+
+1. What happens to your DNA profile and genetic material if your testing company goes out of business? What should happen to it?
+
+If a testing company goes out of business, there should be clear protocols in place to ensure that individuals' DNA profiles and genetic material are appropriately handled. This might involve securely deleting all stored data, giving individuals the option to request their information be destroyed, or transferring the data to a reputable third-party entity that can securely manage it according to ethical guidelines.
+
+2. Who should have access to your genetic information? In the case of law enforcement using consumer DNA databases, does the common good outweigh the individual's rights? Is there a middle ground?
+
+Access to genetic information should be carefully regulated to protect individuals' privacy and autonomy. In cases where law enforcement is involved, there is a delicate balance between using DNA data to solve crimes and respecting individuals' rights to control their personal information. Proper legal frameworks, transparency, and oversight are necessary to ensure that the common good is achieved without undue infringement on individual rights.
+
+3. What right do individuals have over their DNA? If you have an identical twin, with the exact same DNA, should dual consent be required?
+
+Individuals should have the right to own and control their genetic information. In cases where individuals share identical DNA, such as with identical twins, special considerations may need to be made to protect both individuals' rights. Dual consent could be a viable solution to ensure that decisions regarding the use and sharing of genetic data are mutually agreed upon.
+
+4. What recourse do you have if the company’s database is hacked and your information ends up on the internet or in criminals’ hands?
+
+In the event of a data breach, individuals should be informed promptly and provided with resources to protect themselves, such as credit monitoring services. The company should take steps to enhance security measures, report the breach to relevant authorities, and cooperate in investigations. Legal recourse, such as the ability to seek damages, should also be available to affected individuals.
+
+5. Does the good that flows from DNA evidence being used to bring some criminals to justice and to exonerate wrongly-convicted people justify the invasions of privacy and other wrongs described in this case study?
+
+The ethical implications of using DNA evidence for crime-solving and exoneration are complex. While the benefits of using DNA data to achieve justice are significant, it must be weighed against potential privacy violations and other wrongs. A balance must be struck between safeguarding individual rights and promoting public safety through responsible and transparent use of genetic information.

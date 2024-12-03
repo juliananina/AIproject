@@ -1,0 +1,84 @@
+Page 1:
+Cardinals’ Computer Hacking
+Chris Correa was a computer whiz who loved sports and worked in the scouting department of the St.
+Louis Cardinals. His skills and judgment led him to be promoted, and he became the Cardinals’ scouting
+director in charge of the amateur draft.
+In 2011, two of Correa’s colleagues, who were higher up in the Cardinal’s management, left the team
+to take top jobs with a rival team – the Houston Astros. Jeff Luhnow became the Astros’ general
+manager and Sig Mejdal took the job of director of decisions sciences. Correa now says that he was
+worried that these men might have taken important information, including data and algorithms that
+the Cardinals had spent a lot of time and money to develop, to the Astros. And he thought they might
+be using the information against the Cardinals.
+One day, Correa guessed Mejdal’s password and used it to hack into the Astros’ webmail system. He
+accessed the Astros’ webmail at least 48 times (sometimes for as long as two hours at a time) over the
+next few years. He stole information, such as the Astros’ scouting reports, draft rankings, and trade
+discussions. Correa also took steps to cover up his actions. But eventually, he was discovered. In 2014,
+it appears that Correa leaked internal Astros’ trade talk notes to the prominent sports blog Deadspin,
+which caused the Astros to realize that their system had been compromised.
+The FBI was called in. After some investigation, the U.S. Department of Justice charged Correa with five
+violations of the Computer Fraud and Abuse Act. Correa pled guilty in early 2016 and was sentenced to
+46 months in prison. He was ordered to pay the Astros $279,038 in restitution. Later, the Major
+League Baseball (MLB) Commissioner, Rob Manfred, imposed a lifetime ban on Correa from working in
+MLB. Manfred also fined the Cardinals $2 million, although there is no solid evidence that anyone
+other than Correa was involved in the hacking.
+At his sentencing, Correa signed a document admitting that he had caused $1.7 million worth of losses
+to the Astros. However, whatever damage Correa did failed to prevent the Astros from being one of
+MLB’s best teams from (at least) 2016 to 2022. The Astros won the World Series in 2017 and returned
+to the Series, but lost, in 2019 and 2021.
+When Correa was interviewed in prison, he could not remember where he had been (at home? in his
+Cardinals’ office?) when he had first hacked into the Astros’ internal database. And when interviewed
+in prison by sportswriter Ben Reiter, Correa later tried
+to reconstruct his crime, asking: “Why am I here?”
+Case Study – Cardinals’ Computer Hacking - Page 1 of 3
+
+Page 2:
+Discussion Questions
+1. Reiter writes: “While [Correa] knew what he was doing wasn’t right, he never thought that it
+could be a crime. ‘It was all in the context of a game, to me,’ he says. ‘When a pitcher throws at
+a batter’s chest, nobody runs to the local authorities and tries to file an assault charge. I’m not
+making excuses. I’m trying to explain where my head was at, as I now understand it. If another
+team does something wrong, you retaliate. That’s the lens through which I mistakenly viewed
+it, and I used that to give myself permission. It was wrong.’” It appears that Correa did not have
+ethics in his frame of reference when he launched his hacking scheme. Does it appear to you
+that he had a framing problem? Explain.
+2. Is the fact that Correa was involved in a competition at the highest levels of baseball provide
+sufficient justification for his violating moral standards and/or the law?
+1. If you suspect that someone has broken into your house and stolen something, are you
+morally and/or legally justified in breaking into their house to see if you can locate your
+stuff there? The judge who sentenced Correa didn’t think so. Do you? Why or why not?
+3. Reiter also writes: “There is another theory to explain Correa’s actions. It is that even if his
+intrusions came from a feeling that the Cardinals had themselves been violated, he used that to
+justify behavior that turned into something like a compulsion, rooted in both voyeurism and the
+fact that the information acquired by illicitly peering into a chief rival’s brain—and seeing the
+basis for every decision it made—provided an undeniable advantage to both the Cardinals and
+his own career.” If you have viewed the video on the self-serving bias, would you think that it
+might sometimes provide subconscious motivation for people to downplay ethics—to drop it
+out of their frame of reference-- when they make decisions? Explain why or why not.
+4. Later, Correa had a realization: “What was really surreal to me was when I stood back and
+recognized how essentially disrespectful my behavior was of the people whose privacy I
+violated.” If you are blind to the impact that your actions have on others, do you automatically
+have a framing problem? Explain.
+5. At the end of the day, Correa seems to be another good person who did a bad thing and has
+paid a serious price. At sentencing, he said that this was “the worst thing I’ve done in my life by
+far, and I am overwhelmed with remorse and regret.” Famed player and coach Leo Durocher
+once said: “Winning isn’t everything. It’s the only thing.” Did Durocher also have a framing
+problem? Was he right, or should winning with honor be the only thing? What is your view?
+Explain.
+Case Study – Cardinals’ Computer Hacking - Page 2 of 3
+
+Page 3:
+Bibliography:
+Associated Press, “Christopher Correa, Former Cardinals Executive, Sentenced to Four Years for
+Hacking Astros’ Database,” New York Times, July 18, 2016.
+Robert Patrick, “Cardinals Hacker Tells judge ‘Scrawny’ Player’s Name was Key to Unlocking Astros’
+Data,” St. Louis Post Dispatch, Jan. 24, 2016.
+Ben Reiter, “What Happened to the Houston Astros’ Hacker?,” Sports Illustrated, Oct. 4, 2018.
+U.S. v. Christopher Correa, Criminal No. H15-679 (S.D.Tex. Dec. 22, 2015) (indictment), available
+at https://www.documentcloud.org/documents/2680399-ChrisCorreaIndictment.html.
+Author:
+Robert Prentice, J.D.
+Department of Business, Government and Society
+McCombs School of Business
+The University of Texas at Austin
+Case Study – Cardinals’ Computer Hacking - Page 3 of 3
+
